@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: junitexperiment
+
+server:
+  port: 8000
